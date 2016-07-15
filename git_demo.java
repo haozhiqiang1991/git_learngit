@@ -3,5 +3,6 @@ public class git_demo{
 		System.out.println("Hello World");
 		System.out.println("第二次");
 		System.out.println("第三次");
+		System.out.println("你好");
 	}
 }
